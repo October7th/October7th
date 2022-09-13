@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=October17th&show_icons=true&theme=swift" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=October17th&layout=compact" />
-</a>
