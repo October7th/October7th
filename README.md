@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/vlog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/vlog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 
 ### Hi there 👋
 
