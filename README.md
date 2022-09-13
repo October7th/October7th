@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CBD9F0&title_bg=%23CBD9F0&icon=googlefit.svg&icon_color=%23FFDEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![October17th's GitHub stats](https://github-readme-stats.vercel.app/api?username=October17th&show_icons=true&custom_title={Park ye jin's GitHub Stats(string)}&bg_color={0~360,23CBD9F0,23CBD9F0}&title_color={white(hex)}&text_color={white(hex)})
+[![October17th's GitHub stats](https://github-readme-stats.vercel.app/api?username=October17th&show_icons=true&custom_title=Park ye jin's GitHub Stats(string)&bg_color=0~360,23CBD9F0,23CBD9F0&title_color=white(hex)}&text_color={white(hex))
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=October17th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
