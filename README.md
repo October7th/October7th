@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
-<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/>
+
 ### Hi there 👋
 
 <!--
@@ -17,5 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<a href="https://1-2-2-6.tistory.com/">
+<img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/>
+ </p>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CBD9F0&title_bg=%23CBD9F0&icon=googlefit.svg&icon_color=%23FFDEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
