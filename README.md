@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://1-2-2-6.tistory.com/">
-<img src="https://img.shields.io/badge/Blog-ED2224?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-FF6550?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-FF9A00?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-68BC71?style=flat-square&logo=Gmail&logoColor=white"/>
  </p>
  
  <p align="left">
