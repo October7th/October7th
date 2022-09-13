@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Blog-ED1965?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
-<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-3FE669?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/>
 ### Hi there 👋
 
 <!--
