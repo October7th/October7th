@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<p align="center">
 <a href="https://1-2-2-6.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-FF6550?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-68BC71?style=flat-square&logo=Gmail&logoColor=white"/>
  </p>
  
- <p align="left">
+ <p align="center">
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
