@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <a href="https://1-2-2-6.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-FF6550?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/qkrdpwls1007@gmail.com-68BC71?style=flat-square&logo=Gmail&logoColor=white"/>
  </p>
 
 <h2>✨ <b>Tech Stack & Tool</b></h2>
