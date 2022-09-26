@@ -1,10 +1,15 @@
 
-<h4>🍒Hello, I'm <b>Yejin Park.</b> <Br>
-📖I majored in <b>business administration<b> in University. <br>
-💻But I'm dreaming of becoming a <b>developer.</b> <br>
-👍I'm still a beginner, but I'll work hard and become <B>the best in this field!</b> <br>
-🍀If you're curious about me, look at the project I made.🍀 <br>
+<h4>
 
+🍒Hello, I'm Yejin Park.<br>
+
+📖I majored in <b>business administration<b> in University.<br>
+
+💻But I'm dreaming of becoming a <b>developer.</b> <br>
+
+👍I'm still a beginner, but I'll work hard and become <B>the best in this field!</b> <br>
+
+🍀If you're curious about me, look at the project I made.🍀</h4> <br>
 
 <!--
 **October7th/October7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
