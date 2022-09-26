@@ -1,5 +1,10 @@
 
-### Hi there 👋
+<h4>🍒Hello, I'm <b>Yejin Park.</b> <Br>
+📖I majored in <b>business administration<b> in University. <br>
+💻But I'm dreaming of becoming a <b>developer.</b> <br>
+👍I'm still a beginner, but I'll work hard and become <B>the best in this field!</b> <br>
+🍀If you're curious about me, look at the project I made.🍀 <br>
+
 
 <!--
 **October7th/October7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +27,7 @@ Here are some ideas to get you started:
 </a>
  </p>-->
 
-<h2>✨ <b>Tech Stack & Tool</b></h2>
+<h2>✿<b>Tech Stack & Tool</b></h2>
 <div>
 <!-- <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> //로고 작은 버전-->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
