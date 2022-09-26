@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="left">
 <a href="https://1-2-2-6.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-FF6550?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
- </p>
+ </p>-->
 
 <h2>✨ <b>Tech Stack & Tool</b></h2>
 <div>
